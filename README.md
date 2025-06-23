@@ -1,4 +1,4 @@
-# Phase1 : EEG-Tumour Detection
+# EEG-Tumour Detection
 
 ## Problem Definition
 
@@ -63,10 +63,4 @@ This project focuses on EEG analysis using advanced algorithms to detect brain t
 
 ## Summary
 
-This project demonstrates a comprehensive pipeline for EEG-based brain tumor detection, from data loading and preprocessing to statistical analysis and machine learning classification. The approach emphasizes data integrity, robust statistical evaluation, and practical application in clinical diagnostics.[1]
-
----
-
-[1]: paste.txt
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/39767024/c69531cd-cb0b-4f0e-ab2a-c23b38816b0a/paste.txt
+This project demonstrates a comprehensive pipeline for EEG-based brain tumor detection, from data loading and preprocessing to statistical analysis and machine learning classification. The approach emphasizes data integrity, robust statistical evaluation, and practical application in clinical diagnostics.
