@@ -2,7 +2,7 @@
 
 ## Problem Definition
 
-This project focuses on EEG analysis using advanced algorithms to detect brain tumors. By leveraging machine learning models, it identifies distinct patterns in EEG data, highlighting abnormal electrical activity linked to tumor presence. High-resolution EEG cap designs enhance signal acquisition, capturing minute irregularities. Advanced spectral and connectivity analyses are used to uncover subtle biomarkers, distinguishing tumor signatures from normal neural activity. Integration with neuroimaging techniques like MRI further strengthens accuracy, enabling precise localization and characterization of tumors. Real-time monitoring and cloud-based collaboration expedite diagnosis and treatment planning. These advancements in EEG-based tumor detection aim to provide non-invasive, early, and precise identification of brain tumors in clinical settings.[1]
+This project focuses on EEG analysis using advanced algorithms to detect brain tumors. By leveraging machine learning models, it identifies distinct patterns in EEG data, highlighting abnormal electrical activity linked to tumor presence. High-resolution EEG cap designs enhance signal acquisition, capturing minute irregularities. Advanced spectral and connectivity analyses are used to uncover subtle biomarkers, distinguishing tumor signatures from normal neural activity. Integration with neuroimaging techniques like MRI further strengthens accuracy, enabling precise localization and characterization of tumors. Real-time monitoring and cloud-based collaboration expedite diagnosis and treatment planning. These advancements in EEG-based tumor detection aim to provide non-invasive, early, and precise identification of brain tumors in clinical settings.
 
 ---
 
